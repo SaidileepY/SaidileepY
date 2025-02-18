@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaidileepY
 - 👀 I’m interested in Data 
-- 🌱 I’m good at MS SQL Server, Python, PowerBI, Excel
+- 🌱 I’m good at MS SQL Server, Azure, ADF, ADLS Gen2, Databricks, Pyspark, SQL, Python, PowerBI, Excel
 - 💞️ I’m looking to collaborate on Data Analyst/Science/Analytics/Engineer
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/sai-dileep-yamani-387325149/)
 
