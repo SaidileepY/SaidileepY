@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data 
 - 🌱 I’m good at MS SQL Server, Azure, ADF, ADLS Gen2, Databricks, Pyspark, SQL, Python, PowerBI, Excel
 - 💞️ I’m looking to collaborate on Data Analyst/Science/Analytics/Engineer
-- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/sai-dileep-yamani-387325149/)
+- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/sai-yamani-387325149/)
 
 <!---
 SaidileepY/SaidileepY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
